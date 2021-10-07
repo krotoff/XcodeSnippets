@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>snipViewCreating</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>TopLevel</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>import UIKit
+
+final class MyViewClass: UIView {
+    
+    // MARK: - Public types
+    
+    // MARK: - Internal types
+    
+    // MARK: - Private types
+    
+    
+    // MARK: - Public variables
+    
+    // MARK: - Internal variables
+    
+    // MARK: - Private variables
+    
+    
+    // MARK: - IBInspectables
+    
+    // MARK: - IBOutlets
+    
+    // MARK: - IBActions
+    
+    
+    // MARK: - Initialization
+    
+    override init(frame: CGRect) {
+        super.init(frame: frame)
+        
+        initialize()
+    }
+    
+    required init?(coder: NSCoder) {
+        super.init(coder: coder)
+        
+        initialize()
+    }
+    
+    // MARK: - Private methods
+    
+    private func initialize() {
+        &lt;#code#&gt;
+    }
+    
+    // MARK: - UIView lifecycle methods
+    
+    
+    // MARK: - Public functions
+    
+    // MARK: - Internal functions
+    
+    // MARK: - Private functions
+    
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>3BFF3CD4-107D-482F-A71E-2E74EC56FAB4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
+	<key>IDECodeSnippetTitle</key>
+	<string>UIView subclass template</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

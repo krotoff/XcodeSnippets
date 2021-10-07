@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>snipControllerCreating</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>TopLevel</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>import UIKit
+
+final class MyControllerClass: UIViewController {
+    
+    // MARK: - Public types
+    
+    // MARK: - Internal types
+    
+    // MARK: - Private types
+    
+    
+    // MARK: - Public variables
+    
+    // MARK: - Internal variables
+    
+    // MARK: - Private variables
+    
+    
+    // MARK: - IBInspectables
+    
+    // MARK: - IBOutlets
+    
+    // MARK: - IBActions
+    
+    
+    // MARK: - UIViewController lifecycle methods
+    
+    
+    // MARK: - Public functions
+    
+    // MARK: - Internal functions
+    
+    // MARK: - Private functions
+    
+}
+
+extension MyControllerClass: &lt;#Custom Class#&gt; {
+    
+    // MARK: - &lt;#Custom Class#&gt; methods
+    
+}
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>59F10F99-A41F-4390-B68F-1F297616764F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
+	<key>IDECodeSnippetTitle</key>
+	<string>UIViewController subclass template</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>snipClassCreating</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>TopLevel</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>final class MyClass {
+    
+    // MARK: - Public types
+    
+    // MARK: - Internal types
+    
+    // MARK: - Private types
+    
+    
+    // MARK: - Public variables
+    
+    // MARK: - Internal variables
+    
+    // MARK: - Private variables
+    
+    
+    // MARK: - Initialization
+    
+    init(&lt;#parameters#&gt;) {
+        &lt;#statements#&gt;
+    }
+    
+    
+    // MARK: - Public functions
+    
+    // MARK: - Internal functions
+    
+    // MARK: - Private functions
+}
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CC58849E-5810-4042-B203-2A5A2BAAF9C8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Class template</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
